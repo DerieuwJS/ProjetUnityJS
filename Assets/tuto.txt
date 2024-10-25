@@ -1,0 +1,6 @@
+vous allez devoir aller dans le package manager et chercher "ai navigation"
+ce nouveau package permet d'avoir les prérecquis pour déplacer un bot.
+en haut à droite dans la scène il y a 3 petits points verticaux => overlay menu => et la il y a la possibilité
+d'afficher l'overlay pour les navmesh
+
+pour avoir des formes géométriques plus poussées que ceux de base il faut installer probuilder dans le package manager
